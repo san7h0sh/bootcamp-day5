@@ -1,3 +1,8 @@
-# Bootcamp Day-5 Practice Examples
+# BOOTCAMP-2018@DAY-5: Practice Examples
 
-This directory contains the hands-on exercise to be performed in the first half of Bootcamp day-5.
+## Writing Cache Efficient Code
+
+Practice Assignments [easy peasy lemon peasy :)]:
+> * In practice-exercises folder there are toy programs prog_a, prog_b, AOS, and SOA Progs a and b, both do matrix addition but one does it by row wise and other does it by column wise difference in there cache performance can be seen by the tools mentioned above.
+> * You can use perf and cachegrind to see the effects of changing the loop order or the order of the variable accesses. 
+
