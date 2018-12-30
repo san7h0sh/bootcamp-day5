@@ -1,4 +1,4 @@
-# BOOTCAMP-2018@DAY-5: Practice Examples
+# BOOTCAMP-2018@DAY-5: Practice Assignments
 
 ## Writing Cache Efficient Code
 
